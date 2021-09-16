@@ -27,9 +27,17 @@ Program simulates a coffe machine. Machine operates with the folowing products: 
 ![Coffee Machine screeencast](https://github.com/tadeeek/coffee-machine/blob/master/screencast-coffee-machine.gif)
 
 ### ⚡ **[Simple Search](https://github.com/tadeeek/simple-search)**
-Program that let you search for people using 3 search strategies. Project uses the inverted index data structure and design patterns such as strategy and template. It also reads data from txt file. Search strategies: ALL - displays lines from file containing all the words from the query. ANY - displays lines from file containing at least one word from the query. NONT - displays lines from file that do not contain words from the query at all.
+Program that let you search for people using 3 search strategies. Project uses the **inverted index data structure** and design patterns such as **strategy** and **template**. It also reads data from txt file.
+
+Search strategies:
+ALL - displays lines from file containing all the words from the query.
+ANY - displays lines from file containing at least one word from the query.
+NONT - displays lines from file that do not contain words from the query at all.
 
 **Technologies:** Java
+
+![Simple Search screeencast](https://github.com/tadeeek/simple-search/blob/master/screencast-simple-search.gif)
+
 
 ### ⚡ **[Tic tac toe](https://github.com/tadeeek/tic-tac-toe)**
 One of my first projects in Java. Simple Tic-tac-toe game but board coordinates starts from bottom left corner.The main purpose of writing this program was to practice planning and developing a program from scratch, using methods, handling errors, and processing user input.
