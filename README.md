@@ -12,6 +12,11 @@ Simple web application that lets you track your expenses. Manage them by creatin
 
 ![Budget tracker screencast](https://github.com/tadeeek/budget-tracker/blob/master/screencast-budget-tracker.gif)
 
+### ⚡ **[Cryptocurrency exchange](https://github.com/tadeeek/cryptocurrency-exchange)**
+A service application which downloads cryptocurrency rates from CoinAPI and allows to calculate exchange amount from base cryptocurrency. The main purpose of writing this program was to get to know WebFlux reactive programming.
+
+**Technologies:** Java, Spring, Spring WebFlux
+
 ### ⚡ **[Simple Banking System](https://github.com/tadeeek/simple-banking-system)** 
 Program simulates a bank terminal. User can create an account which geneerates a card number using Luhn algorithm and PIN code. User can also log into his account and check balance, deposit, transfer money and delete an account. Data is stored in the database using hibernate. The main purpose of writing this program was to practice writing algorithms and getting know with simple hibernate operations.
 
