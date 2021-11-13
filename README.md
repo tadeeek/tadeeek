@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Paweł and I am currently seeking a career opportunity in the IT industry as a **JAVA** software developer. As a freelancer I create **HTML websites** and online stores based on **CMS Wordpress**. I would like to further develop and expand my knowledge of programming.
+My name is Paweł and I am a **Junior Java developer** ready to take my career onto the next level. Although I have no commercial experience in IT, I have been creating HTML websites and online stores based on CMS Wordpress and I would like tofurther develop and expand my knowledge of programming as a **Java developer**. This is why I took a professional training covering Java backend technologies such as Spring, Hibernate, SQL. I consider myself as good teamplayer with excellent problem solving skills.
 
 ## Java related projects:
 
