@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Java Developer with one year of professional experience which I gained by participating in application development process from scratch which was performed using Agile development methodology. I also have basic understanding of frontend technologies such as React and Angular. I consider myself as good team player with excellent problem solving skills. Passionate about clean code.
+My name is Paweł and I am a Java Developer with one year of professional experience which I gained by participating in application development process from scratch which was performed using Agile development methodology. I also have basic understanding of frontend technologies such as React and Angular. I consider myself as good team player with excellent problem solving skills. Passionate about clean code.
 
 ## Java related projects:
 
