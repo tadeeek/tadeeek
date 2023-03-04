@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Paweł and I am a **Junior Java developer** ready to take my career onto the next level. Although I have no commercial experience in IT, I have been creating HTML websites and online stores based on CMS Wordpress and I would like tofurther develop and expand my knowledge of programming as a **Java developer**. This is why I took a professional training covering Java backend technologies such as Spring, Hibernate, SQL. I consider myself as good teamplayer with excellent problem solving skills.
+I am a Java Developer with one year of professional experience which I gained by participating in application development process from scratch which was performed using Agile development methodology. I also have basic understanding of frontend technologies such as React and Angular. I consider myself as good team player with excellent problem solving skills. Passionate about clean code.
 
 ## Java related projects:
 
